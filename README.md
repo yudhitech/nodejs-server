@@ -24,17 +24,10 @@ We will be creating two different projects for this tutorial, one for our Ionic 
 
 + nodejs-server
   + app
-    + controllers
-      authentication.js
-      todos.js
-    + models
-      todo.js
-      user.js
+    + controllers (authentication.js, todos.js)
+    + models (todo.js, user.js)
     routes.js
-  + config
-    auth.js
-    database.js
-    passport.js
+  + config (auth.js, database.js, passport.js)
   package.json
   server.js
 
