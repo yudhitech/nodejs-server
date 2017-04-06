@@ -31,6 +31,22 @@ We will be creating two different projects for this tutorial, one for our Ionic 
   package.json
   server.js
 
+2. Set up the Project and Dependencies
+
+3. Create the Main Server File
+
+4. Set up the Config Files
+
+5. Set up the Models
+
+6. Set up the Controllers
+
+7. Set up the Routes
+
+Deploy to Heroku
+
+Summary
+
 
     
   
